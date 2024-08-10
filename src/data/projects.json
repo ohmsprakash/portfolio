@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Comfy Store",
+    "imageSrc": "projects/project.png",
+    "description": "This is E-commerce appplication",
+    "skills": ["React", "Tailwind-Css", "Redux tool kit"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Restaurant Menu",
+    "imageSrc": "projects/project.png",
+    "description": "This Project is about building Menu Card of an Restaurants",
+    "skills": ["React", "Html", "Css"],
+    "demo": "https://www.example.com",
+    "source": "https://www.github.com"
+  }
+]
+

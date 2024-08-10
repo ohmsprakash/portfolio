@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Process Executive",
+      "organisation": "Cognizant",
+      "startDate": "Sept, 2023",
+      "endDate": "Mar 2024",
+      "experiences": ["Handled user-submitted issues related to Google Maps, including incorrect locations, missing information, and navigation errors", "Resolving user issues and queries related to map editing"],
+      "imageSrc": "history/cognizant.png"
+    },
+    {
+      "role": "Lab Assistant",
+      "organisation": "Vignan Institute of Technology and Scienece",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2023",
+      "experiences": ["Assisted students in conducting laboratory experiments, ensuring they understood the procedures and safety protocols", "Provided hands-on support to students during experiments, guiding them through the steps and troubleshooting issues"],
+      "imageSrc": "history/vignan.png"
+    }
+  ]
+  
